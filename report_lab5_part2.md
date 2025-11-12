@@ -1,4 +1,4 @@
-# Nguyễn Đức Đạt - 23000109
+# Đỗ Lê Duy - 21000671
 
 ## Lab 5: Phân loại Văn bản với Mạng Nơ-ron Hồi quy (RNN/LSTM)
 
@@ -606,3 +606,4 @@ Phân tích từng câu (vấn đề ngôn ngữ, vì sao LSTM tốt/không tố
 - https://www.tensorflow.org/text/tutorials/text_classification_rnn
 - Các thư viện học sâu của python như tensorflow, keras, gensim
 - Và 1 số khác...
+
